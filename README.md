@@ -19,7 +19,7 @@ valentin@MacBook-Pro portainer_docker_issues %
 
 ### portainer 2.18.4
 
-docker swarm 23.0.6
+docker swarm 23.0.6: /var/run/docker.sock
 
 stack: 
 https://github.com/valentinedwv/portainer_docker_issues
@@ -43,7 +43,7 @@ earthcube@ip-172-31-2-108:~/portainer_docker_issues$
 ```
 
 
-/var/run/docker.sock
+
 
  docker compose version
 Docker Compose version v2.17.3
