@@ -1,0 +1,5 @@
+version: "3.9"
+services:
+  hello_world:
+    image: busybox
+    command: "echo HELLO WORLD"
